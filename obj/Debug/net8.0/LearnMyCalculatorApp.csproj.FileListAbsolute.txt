@@ -1,0 +1,14 @@
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\LearnMyCalculatorApp\bin\Debug\net8.0\LearnMyCalculatorApp.exe
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\LearnMyCalculatorApp\bin\Debug\net8.0\LearnMyCalculatorApp.deps.json
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\LearnMyCalculatorApp\bin\Debug\net8.0\LearnMyCalculatorApp.runtimeconfig.json
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\LearnMyCalculatorApp\bin\Debug\net8.0\LearnMyCalculatorApp.dll
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\LearnMyCalculatorApp\bin\Debug\net8.0\LearnMyCalculatorApp.pdb
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.AssemblyInfo.cs
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.dll
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\LearnMyCalculatorApp\obj\Debug\net8.0\refint\LearnMyCalculatorApp.dll
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.pdb
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.genruntimeconfig.cache
+C:\Users\jeric\OneDrive\code\Microsoft\dotNET\LearnMyCalculatorApp\obj\Debug\net8.0\ref\LearnMyCalculatorApp.dll
